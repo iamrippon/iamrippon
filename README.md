@@ -1,41 +1,96 @@
-<h2 align="center">👋 Hey, I'm <span style="color:#1DA1F2;">Shipharuj</span> aka <strong>iamrippon</strong></h2>
+<h2 align="center">👋 Hey, I'm <span style="color:#1DA1F2;">Shipharuj</span> — aka <strong>RixStonGamer / iamrippon</strong></h2>
+
 <p align="center">
-  🎮 RixxyMC Owner | 💻 Web & Server Developer | 🛒 Building ByteBazaar
+  🎮 Minecraft Server Owner • 🎨 Frontend Developer • 🤖 Discord Bot Creator
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🧠 Owner of <a href="https://rixxymc.fun" target="_blank">RixxyMC</a> — a feature-rich Minecraft network with Lifesteal, SMP, Bedwars & more.
-- ⚙️ Building <strong>ByteBazaar</strong> — a modern digital goods store for gamers.
-- 🔌 Passionate about backend tools, automation, bots, and game server ecosystems.
-- 🚀 Always building new ways to connect tech, creativity, and community.
+## ⭐ About Me
+- 🎮 Owner of <a href="https://rixxymc.in" target="_blank">RixxyMC</a> — a polished Minecraft network with Lifesteal, SMP, PvP, Bedwars & more.
+- 🌐 Creator of <a href="https://rixstongamer.xyz" target="_blank">my portfolio website</a>.
+- 🤖 Developer of **RG AutoMod**, an advanced Discord bot for link moderation.  
+  🔗 Invite: https://invite-rgautomod.rixstongamer.xyz/
+- 🎨 Primarily a **frontend-focused developer**, passionate about clean UI/UX & smooth experiences.
+- 🚀 Always building tools that help communities and gamers.
 
 ---
 
-### 🛠️ Tech & Tools I Use
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,php,mysql,bash,linux,git" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamrippon&show_icons=true&theme=react&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamrippon&theme=react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,mongodb,git,linux" />
 </p>
 
 ---
 
-### 🚧 Projects I’m Working On
-- 🎮 **RixxyMC** — A high-quality Minecraft server with Lifesteal, SMP, PvP, and more.
-- 🛒 **ByteBazaar** — A sleek digital marketplace for games, gift cards, and tools.
-- 🤖 **RixxyMC Bots** — Discord bots for tickets, coins, automation, and player support.
+## 📚 Currently Learning
+I’m actively learning new tools and improving my backend development skills, including:
+- Node.js backend patterns  
+- Express.js  
+- REST APIs  
+- MongoDB & database design  
+- Authentication systems  
+- Advanced React workflows  
+
+Always exploring new technologies to level up my development journey.
 
 ---
 
-### 🔗 Connect with Me
-- 🌐 Website: [rixxymc.fun](https://rixxymc.fun)
-- 💬 Discord: [discord.rixxymc.fun](https://discord.rixxymc.fun)
-- 📧 Email: [business@rixstongamer.xyz](mailto:business@rixstongamer.xyz)
+## 📊 GitHub Statistics
+<p align="center">
+
+  <!-- Reliable GitHub Stats Mirror -->
+  <img width="48%" src="https://github-readme-stats-git-master-rplus-p.vercel.app/api?username=iamrippon&show_icons=true&theme=react&count_private=true" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=iamrippon&theme=react" />
+</p>
+
+---
+
+## 🚧 Projects I’m Currently Building
+### 🎮 RixxyMC
+A community-focused Minecraft network featuring Lifesteal, SMP, PvP, Bedwars & more.  
+🌐 Website: https://rixxymc.in  
+
+---
+
+### 🤖 RG AutoMod (Discord Bot)
+A powerful anti-link automation bot with:
+- Instant link blocking  
+- Trusted user system  
+- Channel allowlists  
+- Logging & warnings  
+- Punishment system  
+🔗 Invite: https://invite-rgautomod.rixstongamer.xyz/
+
+---
+
+### 🛒 ByteBazaar
+A modern digital marketplace for:
+- Game utilities  
+- Tools  
+- Gift cards  
+…and more coming soon.
+
+---
+
+### 🎨 Frontend Projects
+Focus areas:
+- Dashboards  
+- Landing pages  
+- UI/UX-heavy web tools  
+- Design systems  
+- Interactive components  
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  🌐 Website: <a href="https://rixstongamer.xyz" target="_blank">rixstongamer.xyz</a> •  
+  ✉️ Email: <a href="mailto:contact@rixstongamer.xyz">contact@rixstongamer.xyz</a> •  
+  💬 Discord: <a href="https://dsc.gg/rixstongamer" target="_blank">dsc.gg/rixstongamer</a>
+</p>
+
+<p align="center">
+  📬 Contact Page: <a href="https://rixstongamer.xyz/contact" target="_blank">rixstongamer.xyz/contact</a>
+</p>
