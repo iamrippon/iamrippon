@@ -1,96 +1,133 @@
-<h2 align="center">👋 Hey, I'm <span style="color:#1DA1F2;">Shipharuj</span> — aka <strong>RixStonGamer / iamrippon</strong></h2>
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm <span style="color:#1DA1F2;">Shipharuj</span></h1>
+<h3 align="center">aka <strong>RixStonGamer / iamrippon</strong></h3>
 
 <p align="center">
-  🎮 Minecraft Server Owner • 🎨 Frontend Developer • 🤖 Discord Bot Creator
+  <strong>🎮 Minecraft Server Owner • 🎨 Frontend Developer • 🤖 Discord Bot Creator</strong>
+  <br>
+  Building digital experiences, gaming tools & beautiful UIs.
+</p>
+
+---
+
+<!-- BIG SOCIALS -->
+<p align="center">
+  <a href="https://rixstongamer.xyz"><img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:contact@rixstongamer.xyz"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://dsc.gg/rixstongamer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
 ## ⭐ About Me
-- 🎮 Owner of <a href="https://rixxymc.in" target="_blank">RixxyMC</a> — a polished Minecraft network with Lifesteal, SMP, PvP, Bedwars & more.
-- 🌐 Creator of <a href="https://rixstongamer.xyz" target="_blank">my portfolio website</a>.
-- 🤖 Developer of **RG AutoMod**, an advanced Discord bot for link moderation.  
-  🔗 Invite: https://invite-rgautomod.rixstongamer.xyz/
-- 🎨 Primarily a **frontend-focused developer**, passionate about clean UI/UX & smooth experiences.
-- 🚀 Always building tools that help communities and gamers.
+- Owner of **RixxyMC**, a polished Minecraft network with Lifesteal, SMP, PvP & Minigames.  
+- Creator of my portfolio — **https://rixstongamer.xyz**  
+- Developer of **RG AutoMod**, a high-accuracy Discord anti-link bot.  
+- Frontend-focused dev with deep interest in UI/UX & interaction design.  
+- Constantly building tools that help communities, creators & gamers.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,mongodb,git,linux" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,mongodb,python,git,linux,docker,aws,firebase&theme=light" />
 </p>
+
+---
+
+## 🧩 Skills Breakdown
+
+### **Languages**
+- JavaScript  
+- Python  
+
+### **Frontend**
+- React  
+- TailwindCSS  
+- HTML  
+- CSS  
+- Jinja2  
+
+### **Backend / Database**
+- Node.js  
+- Express.js  
+- MongoDB  
+
+### **Cloud, Hosting & DevOps**
+- Docker  
+- Linux  
+- PM2  
+- AWS  
+- Firebase  
+- Git  
 
 ---
 
 ## 📚 Currently Learning
-I’m actively learning new tools and improving my backend development skills, including:
-- Node.js backend patterns  
-- Express.js  
-- REST APIs  
-- MongoDB & database design  
-- Authentication systems  
-- Advanced React workflows  
+Sharpening full-stack systems & backend fundamentals:
 
-Always exploring new technologies to level up my development journey.
+- Modern Node.js architecture  
+- Authentication flows (JWT, sessions, OAuth)  
+- Advanced REST API structures  
+- MongoDB schema optimization  
+- React performance & advanced patterns  
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Insights
 <p align="center">
-
-  <!-- Reliable GitHub Stats Mirror -->
-  <img width="48%" src="https://github-readme-stats-git-master-rplus-p.vercel.app/api?username=iamrippon&show_icons=true&theme=react&count_private=true" />
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=iamrippon&theme=react" />
+  <img height="170" src="https://github-readme-stats-git-master-rplus-p.vercel.app/api?username=iamrippon&show_icons=true&theme=react&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=iamrippon&theme=react" />
 </p>
 
 ---
 
-## 🚧 Projects I’m Currently Building
-### 🎮 RixxyMC
-A community-focused Minecraft network featuring Lifesteal, SMP, PvP, Bedwars & more.  
-🌐 Website: https://rixxymc.in  
+## 🚧 Projects I'm Building
+
+### 🎮 **RixxyMC**
+A community-first Minecraft network with high-quality gamemodes.  
+🌐 https://rixxymc.in  
 
 ---
 
-### 🤖 RG AutoMod (Discord Bot)
-A powerful anti-link automation bot with:
-- Instant link blocking  
-- Trusted user system  
-- Channel allowlists  
+### 🤖 **RG AutoMod**
+A powerful Discord moderation bot with:
+- Smart link detection  
+- Trusted roles  
+- Channel exceptions  
 - Logging & warnings  
-- Punishment system  
+- Auto punishments  
 🔗 Invite: https://invite-rgautomod.rixstongamer.xyz/
 
 ---
 
-### 🛒 ByteBazaar
-A modern digital marketplace for:
-- Game utilities  
+### 🛒 **ByteBazaar**
+Digital marketplace for:
+- Utilities  
 - Tools  
 - Gift cards  
-…and more coming soon.
+- Creator resources  
+More coming soon.
 
 ---
 
-### 🎨 Frontend Projects
-Focus areas:
-- Dashboards  
+### 🎨 **Frontend Projects**
+Focused on:
+- Modern dashboards  
 - Landing pages  
-- UI/UX-heavy web tools  
 - Design systems  
-- Interactive components  
+- Interactive UIs  
+- High-polish web tools  
 
 ---
 
 ## 🔗 Connect With Me
 <p align="center">
-  🌐 Website: <a href="https://rixstongamer.xyz" target="_blank">rixstongamer.xyz</a> •  
-  ✉️ Email: <a href="mailto:contact@rixstongamer.xyz">contact@rixstongamer.xyz</a> •  
-  💬 Discord: <a href="https://dsc.gg/rixstongamer" target="_blank">dsc.gg/rixstongamer</a>
+  <a href="https://rixstongamer.xyz">🌐 rixstongamer.xyz</a> • 
+  <a href="mailto:contact@rixstongamer.xyz">✉️ Email</a> • 
+  <a href="https://dsc.gg/rixstongamer">💬 Discord</a>
 </p>
 
 <p align="center">
-  📬 Contact Page: <a href="https://rixstongamer.xyz/contact" target="_blank">rixstongamer.xyz/contact</a>
+  📬 Contact Page: <a href="https://rixstongamer.xyz/contact">rixstongamer.xyz/contact</a>
 </p>
