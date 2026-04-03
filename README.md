@@ -12,7 +12,7 @@
 
 <!-- BIG SOCIALS -->
 <p align="center">
-  <a href="https://rixstongamer.xyz"><img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="http://rg-studios.in/"><img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:contact@rixstongamer.xyz"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://dsc.gg/rixstongamer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
