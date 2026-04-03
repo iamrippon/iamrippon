@@ -5,32 +5,38 @@
 <p align="center">
   <strong>🎮 Minecraft Server Owner • 🎨 Frontend Developer • 🤖 Discord Bot Creator</strong>
   <br>
-  Building digital experiences, gaming tools & beautiful UIs.
+  Building digital experiences, gaming tools & modern user interfaces.
 </p>
 
 ---
 
 <!-- BIG SOCIALS -->
 <p align="center">
-  <a href="http://rg-studios.in/"><img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:contact@rixstongamer.xyz"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://dsc.gg/rixstongamer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://rg-studios.in/">
+    <img src="https://img.shields.io/badge/Website-RG--Studios-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:in.rgstudios@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/GFGCn2mMrE">
+    <img src="https://img.shields.io/badge/Discord-RG%20Studios-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## ⭐ About Me
-- Owner of **RixxyMC**, a polished Minecraft network with Lifesteal, SMP, PvP & Minigames.  
-- Creator of my portfolio — **https://rixstongamer.xyz**  
-- Developer of **RG AutoMod**, a high-accuracy Discord anti-link bot.  
-- Frontend-focused dev with deep interest in UI/UX & interaction design.  
-- Constantly building tools that help communities, creators & gamers.
+- Owner of **RixxyMC**, a Minecraft network featuring Lifesteal, SMP, PvP & minigames  
+- Founder of **RG Studios**  
+- Creator of **RG AutoMod**, a high-accuracy Discord moderation bot  
+- Frontend-focused developer with strong interest in UI/UX & interaction design  
+- Building tools that empower communities, creators & gamers  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,mongodb,python,git,linux,docker,aws,firebase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,mongodb,python,git,linux,docker,firebase&theme=light" />
 </p>
 
 ---
@@ -46,31 +52,27 @@
 - TailwindCSS  
 - HTML  
 - CSS  
-- Jinja2  
 
 ### **Backend / Database**
 - Node.js  
 - Express.js  
 - MongoDB  
 
-### **Cloud, Hosting & DevOps**
+### **DevOps & Tools**
 - Docker  
 - Linux  
 - PM2  
-- AWS  
 - Firebase  
 - Git  
 
 ---
 
 ## 📚 Currently Learning
-Sharpening full-stack systems & backend fundamentals:
-
-- Modern Node.js architecture  
-- Authentication flows (JWT, sessions, OAuth)  
-- Advanced REST API structures  
-- MongoDB schema optimization  
-- React performance & advanced patterns  
+- Scalable backend architecture  
+- Authentication systems (JWT, OAuth)  
+- Advanced API design  
+- MongoDB optimization  
+- React performance patterns  
 
 ---
 
@@ -85,49 +87,38 @@ Sharpening full-stack systems & backend fundamentals:
 ## 🚧 Projects I'm Building
 
 ### 🎮 **RixxyMC**
-A community-first Minecraft network with high-quality gamemodes.  
+Community-driven Minecraft network with polished gameplay  
 🌐 https://rixxymc.in  
 
 ---
 
 ### 🤖 **RG AutoMod**
-A powerful Discord moderation bot with:
+Advanced Discord moderation bot with:
 - Smart link detection  
-- Trusted roles  
-- Channel exceptions  
-- Logging & warnings  
-- Auto punishments  
-🔗 Invite: https://invite-rgautomod.rixstongamer.xyz/
+- Role-based bypass  
+- Channel control  
+- Logging & auto punishments  
+
+🔗 Invite: https://invite-rgautomod.rg-studios.in/
 
 ---
 
 ### 🛒 **ByteBazaar**
-Digital marketplace for:
-- Utilities  
-- Tools  
-- Gift cards  
-- Creator resources  
-More coming soon.
+Upcoming digital marketplace for tools, utilities & creator resources  
 
 ---
 
 ### 🎨 **Frontend Projects**
-Focused on:
 - Modern dashboards  
 - Landing pages  
-- Design systems  
-- Interactive UIs  
-- High-polish web tools  
+- UI systems  
+- Interactive web tools  
 
 ---
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://rixstongamer.xyz">🌐 rixstongamer.xyz</a> • 
-  <a href="mailto:contact@rixstongamer.xyz">✉️ Email</a> • 
-  <a href="https://dsc.gg/rixstongamer">💬 Discord</a>
-</p>
-
-<p align="center">
-  📬 Contact Page: <a href="https://rixstongamer.xyz/contact">rixstongamer.xyz/contact</a>
+  🌐 <a href="https://rg-studios.in">rg-studios.in</a> • 
+  ✉️ <a href="mailto:in.rgstudios@gmail.com">in.rgstudios@gmail.com</a> • 
+  💬 <a href="https://discord.gg/GFGCn2mMrE">RG Studios Discord</a>
 </p>
