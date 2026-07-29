@@ -1,16 +1,18 @@
 <!-- HEADER -->
+
 <h1 align="center">👋 Hey, I'm <span style="color:#1DA1F2;">Shipharuj</span></h1>
 <h3 align="center">aka <strong>RixStonGamer / iamrippon</strong></h3>
 
 <p align="center">
-  <strong>🎮 Minecraft Server Owner • 🎨 Frontend Developer • 🤖 Discord Bot Creator</strong>
+  <strong>☕ Aspiring Java Developer • 🎨 Frontend Developer • 🤖 Discord Bot Creator</strong>
   <br>
-  Building digital experiences, gaming tools & modern user interfaces.
+  Passionate about building Minecraft plugins, community tools, and modern web experiences.
 </p>
 
 ---
 
 <!-- BIG SOCIALS -->
+
 <p align="center">
   <a href="https://rg-studios.in/">
     <img src="https://img.shields.io/badge/Website-RG--Studios-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -26,17 +28,19 @@
 ---
 
 ## ⭐ About Me
-- Owner of **RixxyMC**, a Minecraft network featuring Lifesteal, SMP, PvP & minigames  
-- Founder of **RG Studios**  
-- Creator of **RG AutoMod**, a high-accuracy Discord moderation bot  
-- Frontend-focused developer with strong interest in UI/UX & interaction design  
-- Building tools that empower communities, creators & gamers  
+
+* 🚀 Founder of **RG Studios**
+* 🤖 Creator of **RG AutoMod**, a Discord moderation bot
+* ☕ Currently learning Java while building Minecraft plugins
+* 🎨 Frontend-focused developer with an interest in clean UI/UX
+* 💡 Passionate about creating tools for communities, creators, and gamers
 
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,mongodb,python,git,linux,docker,firebase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,nodejs,mongodb,python,git,linux,docker,firebase&theme=light" />
 </p>
 
 ---
@@ -44,39 +48,46 @@
 ## 🧩 Skills Breakdown
 
 ### **Languages**
-- JavaScript  
-- Python  
+
+* Java *(Learning)*
+* JavaScript
+* Python
 
 ### **Frontend**
-- React  
-- TailwindCSS  
-- HTML  
-- CSS  
+
+* React
+* Tailwind CSS
+* HTML
+* CSS
 
 ### **Backend / Database**
-- Node.js  
-- Express.js  
-- MongoDB  
+
+* Node.js
+* Express.js
+* MongoDB
 
 ### **DevOps & Tools**
-- Docker  
-- Linux  
-- PM2  
-- Firebase  
-- Git  
+
+* Docker
+* Linux
+* PM2
+* Firebase
+* Git
 
 ---
 
 ## 📚 Currently Learning
-- Scalable backend architecture  
-- Authentication systems (JWT, OAuth)  
-- Advanced API design  
-- MongoDB optimization  
-- React performance patterns  
+
+* Java & Paper API development
+* Software architecture & clean code
+* Authentication systems (JWT & OAuth)
+* Advanced API design
+* React performance optimization
 
 ---
 
 ## 📊 GitHub Insights
+
 <p align="center">
   <img height="170" src="https://github-readme-stats-git-master-rplus-p.vercel.app/api?username=iamrippon&show_icons=true&theme=react&count_private=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=iamrippon&theme=react" />
@@ -86,39 +97,50 @@
 
 ## 🚧 Projects I'm Building
 
-### 🎮 **RixxyMC**
-Community-driven Minecraft network with polished gameplay  
-🌐 https://rixxymc.in  
+### 🔗 **SyncLink** *(In Development)*
+
+A modern open-source Paper plugin that securely connects Minecraft and Discord with account linking, LuckPerms role synchronization, and player sync.
 
 ---
 
 ### 🤖 **RG AutoMod**
-Advanced Discord moderation bot with:
-- Smart link detection  
-- Role-based bypass  
-- Channel control  
-- Logging & auto punishments  
 
-🔗 Invite: https://invite-rgautomod.rg-studios.in/
+Advanced Discord moderation bot featuring:
+
+* Smart link detection
+* Role-based bypass
+* Channel control
+* Logging & automated punishments
+
+🔗 https://invite-rgautomod.rg-studios.in/
 
 ---
 
 ### 🛒 **ByteBazaar**
-Upcoming digital marketplace for tools, utilities & creator resources  
+
+A digital marketplace for developer resources, utilities, and creator tools.
 
 ---
 
 ### 🎨 **Frontend Projects**
-- Modern dashboards  
-- Landing pages  
-- UI systems  
-- Interactive web tools  
+
+* Modern dashboards
+* Landing pages
+* UI systems
+* Interactive web applications
 
 ---
 
 ## 🔗 Connect With Me
+
 <p align="center">
-  🌐 <a href="https://rg-studios.in">rg-studios.in</a> • 
-  ✉️ <a href="mailto:in.rgstudios@gmail.com">in.rgstudios@gmail.com</a> • 
+  🌐 <a href="https://rg-studios.in">rg-studios.in</a> •
+  ✉️ <a href="mailto:in.rgstudios@gmail.com">in.rgstudios@gmail.com</a> •
   💬 <a href="https://discord.gg/GFGCn2mMrE">RG Studios Discord</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Learning by building, improving with every project."</i>
 </p>
